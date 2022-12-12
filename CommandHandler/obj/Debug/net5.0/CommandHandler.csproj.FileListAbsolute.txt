@@ -1,0 +1,16 @@
+C:\Users\EliMarvin\Repos\CommandHandler\CommandHandler\bin\Debug\net5.0\CommandHandler.exe
+C:\Users\EliMarvin\Repos\CommandHandler\CommandHandler\bin\Debug\net5.0\CommandHandler.deps.json
+C:\Users\EliMarvin\Repos\CommandHandler\CommandHandler\bin\Debug\net5.0\CommandHandler.runtimeconfig.json
+C:\Users\EliMarvin\Repos\CommandHandler\CommandHandler\bin\Debug\net5.0\CommandHandler.runtimeconfig.dev.json
+C:\Users\EliMarvin\Repos\CommandHandler\CommandHandler\bin\Debug\net5.0\CommandHandler.dll
+C:\Users\EliMarvin\Repos\CommandHandler\CommandHandler\bin\Debug\net5.0\CommandHandler.pdb
+C:\Users\EliMarvin\Repos\CommandHandler\CommandHandler\obj\Debug\net5.0\CommandHandler.csproj.AssemblyReference.cache
+C:\Users\EliMarvin\Repos\CommandHandler\CommandHandler\obj\Debug\net5.0\CommandHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EliMarvin\Repos\CommandHandler\CommandHandler\obj\Debug\net5.0\CommandHandler.AssemblyInfoInputs.cache
+C:\Users\EliMarvin\Repos\CommandHandler\CommandHandler\obj\Debug\net5.0\CommandHandler.AssemblyInfo.cs
+C:\Users\EliMarvin\Repos\CommandHandler\CommandHandler\obj\Debug\net5.0\CommandHandler.csproj.CoreCompileInputs.cache
+C:\Users\EliMarvin\Repos\CommandHandler\CommandHandler\obj\Debug\net5.0\CommandHandler.dll
+C:\Users\EliMarvin\Repos\CommandHandler\CommandHandler\obj\Debug\net5.0\refint\CommandHandler.dll
+C:\Users\EliMarvin\Repos\CommandHandler\CommandHandler\obj\Debug\net5.0\CommandHandler.pdb
+C:\Users\EliMarvin\Repos\CommandHandler\CommandHandler\obj\Debug\net5.0\CommandHandler.genruntimeconfig.cache
+C:\Users\EliMarvin\Repos\CommandHandler\CommandHandler\obj\Debug\net5.0\ref\CommandHandler.dll
